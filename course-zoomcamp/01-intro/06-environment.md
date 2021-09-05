@@ -67,7 +67,7 @@ You can rent an instance on AWS:
 
 ### Google Colab
 
-TODO (PRs are welcome)
+I am exploring ways to do that myself and will commit to the repo as I go through the process because I will follow the whole course using Google Colab.
 
 ### Kaggle
 
